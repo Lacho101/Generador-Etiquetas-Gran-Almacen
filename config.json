@@ -1,0 +1,17 @@
+{
+  "fuente": "Arial",
+  "tam_linea1": 14,
+  "tam_linea2": 27,
+  "copias": 1,
+  "abrir_pdf": false,
+  "modo": "manual",
+  "serie": {
+    "pref": "A",
+    "n2i": "1",
+    "n2f": "1",
+    "n3i": "1",
+    "n3f": "6",
+    "n4i": "1",
+    "n4f": "5"
+  }
+}
